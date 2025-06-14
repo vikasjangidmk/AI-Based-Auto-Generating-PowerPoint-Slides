@@ -1,0 +1,4 @@
+AI is transforming industries by automating repetitive tasks and enabling data-driven decision-making.
+This project aims to generate PowerPoint slides automatically based on input documents.
+It will extract text from PDFs, DOCX, TXT, and CSV files and convert them into well-structured slides.
+The AI will use OpenAI's GPT models for text summarization and LlamaIndex for information retrieval.
