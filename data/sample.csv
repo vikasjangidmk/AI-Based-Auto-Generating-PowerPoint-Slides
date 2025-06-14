@@ -1,0 +1,5 @@
+Topic,Description
+AI in Presentations,Automating slide generation using AI models
+Text Extraction,"Processing PDFs, DOCX, TXT, and CSV for content retrieval"
+Summarization,Using LlamaIndex and GPT models for key point extraction
+Slide Design,Structuring extracted content into PowerPoint slides
